@@ -1,3 +1,5 @@
+![image](https://github.com/rocknrome/SEIR-SEAL-DAY-1-LAB/assets/126816805/300a8311-e8ba-482b-af5e-9b7723993f39)
+
 **DAY 1 LAB 1**
 
 <u>Part 1</u> Syntax Error
